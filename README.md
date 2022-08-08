@@ -4,7 +4,7 @@ Welcome to my page!<br/>
 I'm Seoyoon and I'm developing moblie app using Android:rocket:
 
 
-<a href="syoonlee513@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"></a>
+<a href="mailto:syoonlee513@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"></a>
 <img src="https://img.shields.io/badge/Blog-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
 
 ### :hammer:Skills
