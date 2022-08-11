@@ -19,4 +19,4 @@ I'm Seoyoon and I'm developing moblie app using Android:rocket:
 <a href="https://gitbub.com/seoyoon513/github-readme-stats"><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=seoyoon513&theme=default"></a>
 <a href="https://gitbub.com/seoyoon513/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seoyoon513&layout=compact"></a>
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=ashutosh00710&theme=minimal&custom_title=Seoyoon%20Contribution%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=seoyoon513&theme=minimal&custom_title=Seoyoon%20Contribution%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
